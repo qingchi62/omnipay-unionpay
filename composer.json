@@ -1,5 +1,5 @@
 {
-  "name": "unionpay/omnipay-unionpay",
+  "name": "qingchi62/omnipay-unionpay",
   "type": "library",
   "description": "UnionPay gateway for Omnipay payment processing library",
   "keywords": [
